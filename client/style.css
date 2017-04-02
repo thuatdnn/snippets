@@ -1,0 +1,14 @@
+#txtAdd{
+    width: 40rem;
+}
+.snippet{
+    width: 250px;
+    min-height: 170px;
+}
+.bordered{
+    border: solid 2px #ccc;
+}
+.desc:hover{
+    boder-radius: 5px;
+    border: dashed 2px #ccc;
+}
